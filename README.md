@@ -47,11 +47,4 @@ The API will run at **http://localhost:5001**.
 
 
 ## 🌍 Deployment
-
-### Render
-
-1. Push your `backend/` folder to a GitHub repository.
-2. Create a new **Web Service** on [Render](https://render.com).
-3. Set **Build Command**: `npm install`
-4. Set **Start Command**: `node server.js`
-5. Add all variables from `backend/.env` under **Environment → Environment Variables**.
+Render

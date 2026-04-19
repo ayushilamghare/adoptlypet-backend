@@ -13,7 +13,8 @@ Foster System: Users can foster and manage pets
 Reviews & Ratings: Feedback for shelters and pets
 Messaging & Scheduling: Connect adopters with shelters
 Email Notifications: Updates on applications & new listings
-🛠 Tech Stack
+
+📖 **[View API Documentation](./README.API.md)**
 
 ## 🛠 Tech Stack
 
@@ -43,6 +44,7 @@ npm run dev
 ```
 
 The API will run at **http://localhost:5001**.
+
 
 ## 🌍 Deployment
 
